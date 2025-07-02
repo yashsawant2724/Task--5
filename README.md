@@ -56,7 +56,7 @@ This project demonstrates the use of Wireshark to capture and analyze network tr
 
 7. **Export Capture**
    - The capture file was exported in `.pcap` format.
-   - 
+   
 
 8. **Summary of Findings**
    - DNS: Resolved multiple domain names such as `google.com`, `youtube.com`.
